@@ -2,7 +2,7 @@
 simple prefab placer for unity
 
 
-UnityPackage file <img src="https://user-images.githubusercontent.com/52219910/117136413-020aa200-adb1-11eb-8404-60bca6ba1e35.png" width="250" height="250">
+UnityPackage file <img src="https://user-images.githubusercontent.com/52219910/117136413-020aa200-adb1-11eb-8404-60bca6ba1e35.png" width="50" height="50">
  https://github.com/AndrewKLoyd/PrefabPlacerUnity/raw/main/PrefabPlacer.unitypackage
 1) To add PrefabPlacer press RMB in hierarchy and chose PrefabPlacer option
 
