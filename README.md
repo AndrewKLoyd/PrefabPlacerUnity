@@ -24,6 +24,9 @@ UnityPackage file https://github.com/AndrewKLoyd/PrefabPlacerUnity/raw/main/Pref
 
 
 *Randomise Y rotation - will set Y rotation to random value
+
 *Use geometry instead of pivot point(UGIPP) - if you wont use your pivot point as a spawned position, set UGIPP to true script will calculate the lowest vert in your mesh and set it as a spawn position + mouse position
+
 *Y offset - change spawn position by Y
+
 *Destroy spawned button - will destroy all kids of SpawnedObject you are working on
